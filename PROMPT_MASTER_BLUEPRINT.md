@@ -1,4 +1,4 @@
-# EURON — Master Project Blueprint Prompt
+# EMKAY'S — Master Project Blueprint Prompt
 ### Universal Enterprise SaaS & AI Product Documentation Framework
 
 > **How to use:** Copy this document. Replace every `[VARIABLE]` with your project details. Feed each phase sequentially — the output of each phase becomes the input of the next.
